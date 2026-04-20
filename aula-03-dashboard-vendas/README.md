@@ -44,10 +44,11 @@ O dashboard inclui:
 ## Estrutura do Projeto
 
 📁 dashboard-rh
+```
 ┣ 📄 preview.png
 ┣ 📄 dashboard.pbix
 ┗ 📄 README.md
-
+```
 ---
 
 ## Como Utilizar
