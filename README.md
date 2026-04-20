@@ -20,14 +20,14 @@ Principais pontos:
 * Comparação de desempenho por região
 * Ranking de marcas por faturamento
 
-'''Estrutura:
+Estrutura:
+```
 📁 dashboard-vendas
 ┣ 📄 dashboard.pbix
 ┣ 📄 preview.png
 ┗ 📄 vendas.xlsx
-'''
+```
 ---
-
 ### Dashboard de Produção
 
 Monitoramento de indicadores produtivos para avaliação de eficiência operacional.
@@ -38,13 +38,14 @@ Principais pontos:
 * Análise de horas produtivas e paradas
 * Identificação de perdas operacionais
 
-'''
+
 Estrutura:
+```
 📁 dashboard-producao
 ┣ 📄 dashboard.pbix
 ┣ 📄 preview.png
 ┗ 📄 README.md
-'''
+```
 ---
 
 ### Dashboard de RH
@@ -56,13 +57,14 @@ Principais pontos:
 * Acompanhamento de contratações e desligamentos
 * Distribuição de colaboradores por cidade e cargo
 * Análise de rotatividade
-''''
+
 Estrutura:
+```
 📁 dashboard-rh
 ┣ 📄 dashboard.pbix
 ┣ 📄 preview.png
 ┗ 📄 README.md
-'''
+```
 ---
 
 ## Tecnologias Utilizadas
